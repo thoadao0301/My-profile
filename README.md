@@ -2,7 +2,7 @@
   * I'm majoring in Artificial Intelligence at FPT University.
   
 ### My GitHub is a place that I will make over the course of improving my working skills.
-  * Semeters' Project:<br />
+  * Semesters' Project:<br />
     + C application: Snake game.<br />
     + Java applications: Student management, User management, Product management.<br />
     + Data structures and algorithms with python: Sorting algorithms, updating...<br />
