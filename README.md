@@ -12,4 +12,5 @@
     + Guided projects: data web-app with streamlit. <br/>
   * Building Machine Learning Solutions with Scikit Learn skills. <br/>
   * Language:
-    + 🇫🇷
+    + :fr:
+    + :us:
