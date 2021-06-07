@@ -5,7 +5,7 @@
   * Semesters' Project:<br />
     + C application: Snake game.<br />
     + Java applications: Student management, User management, Product management.<br />
-    + Data structures and algorithms with python: Sorting algorithms, updating...<br />
+    + Data structures and algorithms with python: Sorting algorithms, Red-Black tree updating...<br />
     + Math funny coding: Bandt 12-gon problem, calculate Pi with Monte Carlo theory <br />
   
   * Data analytic's Project:<br/>
