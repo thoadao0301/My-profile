@@ -16,7 +16,7 @@
   * Building Machine Learning Solutions with Scikit Learn skills. <br/>
     + Base Knowledge.
     + Projects application: 
-     - HR Analytic and Classification
+      - HR Analytic and Classification
   
   * Language:
     + :fr:
