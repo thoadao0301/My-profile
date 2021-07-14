@@ -8,11 +8,15 @@
     + Data structures and algorithms with python: Sorting algorithms, Red-Black tree updating...<br />
     + Math funny coding: Bandt 12-gon problem, calculate Pi with Monte Carlo theory <br />
   
-  * Data analytic's Project:<br/>
-    + COVID-19 Analytic and visualization. <br/>
+  * Data processing and visualization's Project:<br/>
+    + COVID-19 interactive visualization. <br/>
     + Guided projects: data web-app with streamlit. <br/>
+    + OULAD Virtual learning dataset preprocessing and visualiztion.
   
   * Building Machine Learning Solutions with Scikit Learn skills. <br/>
+    + Base Knowledge.
+    + Projects application: 
+     - HR Analytic and Classification
   
   * Language:
     + :fr:
