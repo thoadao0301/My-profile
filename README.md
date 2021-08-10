@@ -17,7 +17,7 @@
     + Base Knowledge.
     + Projects application: 
       - HR Analytic and Classification
-  
+      - California housing price prediction 
   * Language:
     + :fr:
     + :us:
