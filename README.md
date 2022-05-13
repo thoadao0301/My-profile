@@ -1,7 +1,7 @@
 ## Hello, My name is Bao Thoa. 🕵️
   * I'm majoring in Artificial Intelligence at FPT University.
   
-### My GitHub is a place that I will make over the course of improving my working skills.
+### My GitHub is a place that I made over the course of improving my working skills.
   * Semesters' Project:<br />
     + C application: Snake game.<br />
     + Java applications: Student management, User management, Product management.<br />
